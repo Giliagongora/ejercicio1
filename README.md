@@ -1,2 +1,2 @@
 # ejercicio1
-ejercicio de html
+++ Ejercicio de práctica para html
